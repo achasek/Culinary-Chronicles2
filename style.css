@@ -1,0 +1,16 @@
+.food_list {
+    background-color: teal;
+    font-size: 20px;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#mid-li {
+    background-color: gray;
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
